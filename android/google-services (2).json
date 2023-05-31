@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913086552511",
+    "project_id": "etlab-88f6f",
+    "storage_bucket": "etlab-88f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913086552511:android:0af3d36f3bfb7b4376a90a",
+        "android_client_info": {
+          "package_name": "com.example.etlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913086552511-jsceqm87dtc4s01fdsca3to1odl94i8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlHEeGXLTpEQbdq6ORBWMy47oqJcL6fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913086552511-jsceqm87dtc4s01fdsca3to1odl94i8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
